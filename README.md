@@ -1,10 +1,13 @@
 
-```Writter : Heru Syah Putra```
+Writter : Heru Syah Putra
 
-```Date: November 8, 2022```
+Date: November 8, 2022
 
 # Some experimental projects that have been
 =========================================================================
+
+Here I attach some projects that have been made using the python programming language which is integrated with the moil-sdk and user interface design to make it easier for users to use the application, this project was created with the aim of increasing knowledge, skills, and training abilities possessed. To be able to see this project you can click one by one the links provided.
+
 
 ## 1. [Python Sphinx Documentation](https://github.com/MoilOrg/MoilOrg.github.io)
 
