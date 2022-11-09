@@ -23,7 +23,7 @@ Here I attach some projects that have been made using the python programming lan
 
 ## 7. [Camera Calibration Using Checkboard](https://github.com/MoilOrg/Progress-Heru/tree/master/Calib-Pose%20Estimation) 
 
-## 8. [Create Dataset Intel T265](https://github.com/Herusyahputra/Create-DatasetIntelT265)
+## 8. [Dataset Intel T265](https://github.com/Herusyahputra/Create-DatasetIntelT265)
 
 ## 9. [3D Measurement images](https://github.com/MoilOrg/Progress-Heru/tree/master/3D%20Measurement)
 
