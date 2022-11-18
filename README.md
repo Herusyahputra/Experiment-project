@@ -1,8 +1,6 @@
 
 Writter : Heru Syah Putra
 
-Date: November 8, 2022
-
 # Some experimental projects that have been
 =========================================================================
 
