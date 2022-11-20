@@ -9,7 +9,7 @@ Here I attach some projects that have been made using the python programming lan
 
 ## 1. [Python Sphinx Documentation](https://github.com/MoilOrg/MoilOrg.github.io)
 
-## 2. [Plate Detection Project](https://github.com/Herusyahputra/New-Plate_Detection)
+## 2. [Plate Detection Project](https://github.com/Herusyahputra/V2-Plate_detection)
 
 ## 3. [Moilutils Template](https://github.com/Herusyahputra/moilapps-template)
 
