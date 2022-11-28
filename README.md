@@ -1,6 +1,3 @@
-
-Writter : Heru Syah Putra
-
 # Some experimental projects that have been
 ==================================================================================
 
